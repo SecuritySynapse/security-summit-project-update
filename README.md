@@ -11,8 +11,13 @@ After cloning this repository to your computer, please take the following steps:
 you can document and reflect on your experiences during the proposal research
 and initial implementation phases of the security summit project.
 - Please note that you are required to answer all of the questions and submit
-the final version of the `update.md` file by the recorded deadline.
-Importantly, you can find the deadline for the work in this repository by
-clicking the button that is at the top of this file!
+the final version of the `update.md` file by the recorded deadline. Importantly,
+you can find the deadline for the work in this repository by clicking the button
+that is at the top of this file!
+- You will have the opportunity to work on this status update during at least
+one of the afternoon office hours.
+- If you have not done so already, please make sure that you schedule office
+hour appointments with the course instructor to share status updates and to seek
+feedback about your implementation of the security summit project.
 - Please see the course instructor if you have any questions or concerns about
-any of the tasks you are invited to complete as a part of this assessment.
+any of the tasks you are invited to complete as a part of this status update.
