@@ -17,7 +17,7 @@ the final version of the `update.md` file by the recorded deadline. Importantly,
 you can find the deadline for the work in this repository by clicking the button
 that is at the top of this file!
 - You will have the opportunity to work on this status update during at least
-one of the afternoon office hours.
+one of the afternoon laboratory sessions.
 - If you have not done so already, please make sure that you schedule office
 hour appointments with the course instructor to share status updates and to seek
 feedback about your implementation of the security summit project.
