@@ -9,7 +9,9 @@ After cloning this repository to your computer, please take the following steps:
 
 - Answer all of the following questions inside of the `update.md` file so that
 you can document and reflect on your experiences during the proposal research
-and initial implementation phases of the security summit project.
+and initial implementation phases of the security summit project, up to and
+including at least one demonstration that you gave to the course instructor
+during a laboratory session.
 - Please note that you are required to answer all of the questions and submit
 the final version of the `update.md` file by the recorded deadline. Importantly,
 you can find the deadline for the work in this repository by clicking the button
