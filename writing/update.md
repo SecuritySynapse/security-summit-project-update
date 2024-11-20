@@ -18,15 +18,15 @@ including artificial intelligence coding assistants and online forums, during
 the completion of this project provided that you cite these sources and explain
 how you used them to complete the various components of your proposed project.
 
-## Update Instructions
+## Status Update Instructions
 
-Provide all of the requested details about your proposed security summit
+Provide a brief status updates about your progress on the security summit
 project. Please note that, in addition to ensuring that your GitHub repository
 has a passing build, the course instructor will also confirm that you have
 adequately answered all of the questions by providing meaningful responses to
 each of them. It is important to note that if you do not provide satisfactory
-answers to all of these questions you will not earn a satisfactory assessment of
-your security synapse project proposal.
+answers to all of these questions you will not earn a satisfactory assessment
+of your security synapse project proposal.
 
 TODO: You should delete all of the prompts in this file so as to ensure that the
 final document is a comprehensive proposal for your security synapse project.
