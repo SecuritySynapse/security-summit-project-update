@@ -2,6 +2,32 @@
 
 <!---toc start-->
 
+* [Table of Contents](#table-of-contents)
+  * [Project Overview](#project-overview)
+  * [Status Update Instructions](#status-update-instructions)
+  * [Security Summit Project Update](#security-summit-project-update)
+    * [Add Your Name Here](#add-your-name-here)
+    * [Summary Checklist](#summary-checklist)
+    * [Project Update](#project-update)
+      * [What is the final topic that you selected for your security summit project?](#what-is-the-final-topic-that-you-selected-for-your-security-summit-project)
+      * [What are the ways in which your project's topic evolved since its proposal?](#what-are-the-ways-in-which-your-projects-topic-evolved-since-its-proposal)
+      * [What are the updated scientific and/or engineering goals for your chosen project?](#what-are-the-updated-scientific-andor-engineering-goals-for-your-chosen-project)
+      * [What is the update abstract of your project?](#what-is-the-update-abstract-of-your-project)
+      * [What parts of your you have already designed and implemented?](#what-parts-of-your-you-have-already-designed-and-implemented)
+      * [Please pick one source code segment you have already implemented and explain it.](#please-pick-one-source-code-segment-you-have-already-implemented-and-explain-it)
+      * [What is some preliminary experimental evidence arising from your project?](#what-is-some-preliminary-experimental-evidence-arising-from-your-project)
+      * [What tasks will you complete so as to finish your security summit project?](#what-tasks-will-you-complete-so-as-to-finish-your-security-summit-project)
+    * [Learning Objectives](#learning-objectives)
+    * [Restatement of Learning Objectives](#restatement-of-learning-objectives)
+    * [Assessment of Your Current Level of Attainment of the Learning Objectives](#assessment-of-your-current-level-of-attainment-of-the-learning-objectives)
+      * [Assessing Current Level of Attainment for the Stated Learning Objective](#assessing-current-level-of-attainment-for-the-stated-learning-objective)
+  * [Course Assessment](#course-assessment)
+    * [On a scale from 1 to 5, please respond to this assertion from your perspective: "I was challenged intellectually by the content and activities during this module"](#on-a-scale-from-1-to-5-please-respond-to-this-assertion-from-your-perspective-i-was-challenged-intellectually-by-the-content-and-activities-during-this-module)
+    * [On a scale from 1 to 5, please respond to this assertion from your perspective: "I had plenty of support from my professor, my classmates, and the course software as I worked during this module"](#on-a-scale-from-1-to-5-please-respond-to-this-assertion-from-your-perspective-i-had-plenty-of-support-from-my-professor-my-classmates-and-the-course-software-as-i-worked-during-this-module)
+    * [On a scale from 1 to 5, please respond to this assertion from your perspective: "I am closer to mastering the technical and scientific concepts of the course now than I was at the start of this semester."](#on-a-scale-from-1-to-5-please-respond-to-this-assertion-from-your-perspective-i-am-closer-to-mastering-the-technical-and-scientific-concepts-of-the-course-now-than-i-was-at-the-start-of-this-semester)
+    * [On a scale from 1 to 5, please respond to this assertion from your perspective: "I felt that I was a part of a community of computer security engineers during the past module."](#on-a-scale-from-1-to-5-please-respond-to-this-assertion-from-your-perspective-i-felt-that-i-was-a-part-of-a-community-of-computer-security-engineers-during-the-past-module)
+    * [On a scale from 1 to 5, please respond to this assertion from your perspective: "During the past module I made progress in mastering the technical knowledge and skills in computer security because of my own efforts and choices."](#on-a-scale-from-1-to-5-please-respond-to-this-assertion-from-your-perspective-during-the-past-module-i-made-progress-in-mastering-the-technical-knowledge-and-skills-in-computer-security-because-of-my-own-efforts-and-choices)
+
 <!---toc end-->
 
 ## Project Overview
@@ -58,7 +84,7 @@ TODO: Please do not fill in the checkbox if you did not complete the task
 
 #### What is the final topic that you selected for your security summit project?
 
-TODO: Write two or three sentences that offer an overview of your topic, explain
+TODO: Write one or two sentences that offer an overview of your topic, explain
 what you are going to build, and describe how you are going to evaluate it. What
 you furnish in this sub-section of the proposal should include a few more
 details than the topic list that you provided in the previous sub-section.
@@ -72,14 +98,14 @@ you first proposed it. This response should explain how your project's topic
 changed from both a high-level perspective and in terms of the specific
 technical details that are central to the completion of your project.
 
-#### What are the scientific and/or engineering goals for your chosen project?
+#### What are the updated scientific and/or engineering goals for your chosen project?
 
 TODO: Provide a list of at least three goals for your chosen project. Each goal
 that you provide should have a clear noun and verb. Whenever it is possible to
 do so, please make sure that you do not write any of these goals in passive
 voice as that would obscure the overall contributions of your project.
 
-#### What is the abstract of your project proposal?
+#### What is the update abstract of your project?
 
 TODO: Write a one-paragraph abstract that overviews your proposed project and
 the expected outcomes. The content that you write here should be written and
@@ -89,7 +115,7 @@ abstract that you read in a published research paper and this abstract is that
 the one you are writing here will reference expected research results and a
 published paper will explain the results from a completed study.
 
-#### What are the components of your system that you are going to design and implement?
+#### What parts of your you have already designed and implemented?
 
 TODO: Write a one or two paragraph response to this question. Your response
 should highlight the names of the system components that you are going to build,
@@ -99,19 +125,23 @@ component. Whenever possible, please make sure that you state the specific
 implementation frameworks, programming languages, and tools that you will use to
 design and implement each component in your proposed system.
 
-#### What is some convincing evidence of feasibility for your proposed project?
+#### Please pick one source code segment you have already implemented and explain it.
 
-TODO: Along with furnishing two fenced code blocks, write a one or two paragraph
-response to this question. Your response to this question should contain at
-least two fenced code blocks. The first fenced code block should contain a code
-snippet that demonstrates the feasibility of your proposed project. The second
-fenced code block should contain the output from running the code snippet. The
-code segment that you furnish should make it clear that it is possible for
-you to complete the proposed project during the remainder of the academic
-semester. After you have finished both of the code blocks, please write one or
-two paragraphs that explain how the code snippet demonstrates project feasibility.
+TODO: Using your project's chosen implementation language, please provide a
+source code segment in a fenced code block. Then, write at least one paragraph
+that explains the key features of the code segment that you have already
+implemented. When appropriate, explain what was technically challenging and/or
+interesting about the provided source code segment.
 
-#### What tasks will you complete after the approval of your project proposal?
+#### What is some preliminary experimental evidence arising from your project?
+
+TODO: Write a one or two paragraph response to this question that overviews an
+interesting empirical study or experiment that you have conducted. Whenever
+possible, your response to this question should furnish data (through a fenced
+code block or a table) that supports the claims that you are making about
+various aspects of the efficiency, effectiveness, or security of your approach.
+
+#### What tasks will you complete so as to finish your security summit project?
 
 TODO: Write a list of at least five tasks that you will complete after the
 approval of your project proposal. The steps that you furnish should be in the
@@ -122,7 +152,7 @@ will build and how you will evaluate your progress on each task.
 
 After consulting the [Learning
 Objectives](https://securitysynapse.org/syllabus/#learning-objectives) for the
-Computer Security course, pick at least two or three of them that **connect to
+Computer Security course, pick at least one of them that **connect to
 your proposed computer security project** and write the learning objective in
 its entirety below this paragraph. Next, accurately assess your current
 attainment of that learning objective on a scale between 1 and 5 where 1
@@ -132,7 +162,7 @@ with the learning objective and are prepared to effectively teach it to others.
 
 ### Restatement of Learning Objectives
 
-TODO: Make sure to re-state at least two or three of the learning objectives,
+TODO: Make sure to re-state at least one of the learning objectives,
 using the correct notation for its label as provided in the syllabus.
 
 ### Assessment of Your Current Level of Attainment of the Learning Objectives
@@ -142,20 +172,7 @@ attainment of the skill described in that learning objective. For the assessment
 of your learning objectives, the `First` one will be the one that appears first
 above and the `Second` one will be the one that appears after the `First` one.
 
-#### Assessing Current Level of Attainment for First Learning Objective
-
-- [] 1 (**Emerging**): The security engineer is beginning to learn this skill or
-concept and needs significant guidance and/or support.
-- [] 2 (**Developing**): The security engineer has some understanding but still
-needs help and practice to fully grasp the skill or concept.
-- [] 3 (**Competent**): The security engineer has a solid understanding and can
-independently apply the skill or concept most of the time.
-- [] 4 (**Proficient**): The security engineer has a deep understanding and can
-consistently apply the skill or concept independently and effectively.
-- [] 5 (**Expert**): The security engineer has mastered the skill or concept and
-can apply it in complex situations and even teach it to others.
-
-#### Assessing Current Level of Attainment for Second Learning Objective
+#### Assessing Current Level of Attainment for the Stated Learning Objective
 
 - [] 1 (**Emerging**): The security engineer is beginning to learn this skill or
 concept and needs significant guidance and/or support.
@@ -229,20 +246,3 @@ Please create a filled checkbox for the level that best describes your perspecti
 - [] 3: Neutral
 - [] 4: Agree
 - [] 5: Strongly Agree
-
-### Write three sentences that summarize your overall experience in the computer security course for this module. What do you think that we should keep doing? What do you think that we should stop doing? What suggestion can you offer for a task that we can start doing to improve the next module of the course?
-
-#### Sentence One: Answer the question `What do you think that we should keep doing? Why?`
-
-TODO: Write one sentence to answer the question.
-TODO: Provide a sentence of the form "I think that we should keep doing X because Y."
-
-#### Sentence Two: Answer the question `What do you think that we should stop doing? Why?`
-
-TODO: Write one sentence to answer the question.
-TODO: Provide a sentence of the form "I think that we should stop doing X because Y."
-
-#### Sentence Three: Answer the question `What do you think that we should start doing? Why`
-
-TODO: Write one sentence to answer the question.
-TODO: Your sentence should be of the form "I think that we should start doing X because Y."
