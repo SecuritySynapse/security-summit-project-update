@@ -51,9 +51,7 @@ TODO: Please do not fill in the checkbox if you did not complete the task
 - [] Furnished a demonstration of project feasibility through explained code
 - [] Overviewed at least one empirical result from your preliminary experiments
 - [] Gave a list of tasks that you plan to complete after the status update
-- [] Explained how the project will help you to achieve learning outcomes
-- [] Suggested improvement for upcoming modules in the computer security course
-- [] Revised and extended the topic outlined in the prior project proposal
+- [] Explained how the project has helped you to achieve learning outcomes
 
 ### Project Update
 
@@ -80,7 +78,7 @@ that you provide should have a clear noun and verb. Whenever it is possible to
 do so, please make sure that you do not write any of these goals in passive
 voice as that would obscure the overall contributions of your project.
 
-#### What is the update abstract of your project?
+#### What is the updated abstract of your project?
 
 TODO: Write a one-paragraph abstract that overviews your long-term project and
 the expected outcomes. The content that you write here should be written and
@@ -90,7 +88,7 @@ abstract that you read in a published research paper and this abstract is that
 the one you are writing here will reference expected research results and a
 published paper will explain the results from a completed study.
 
-#### What parts of your you have already designed and implemented?
+#### What parts of your project have you already designed and implemented?
 
 TODO: Write a one or two paragraph response to this question. Your response
 should highlight the names of the system components that you are going to build,
@@ -98,7 +96,9 @@ the way in which you are going to design each specific component, and then a
 checklist of steps that you will take to actually implement and test that
 component. Whenever possible, please make sure that you state the specific
 implementation frameworks, programming languages, and tools that you will use to
-design and implement each component in your proposed system.
+design and implement each component in your proposed system. Please make it 
+clear how your response connects to the parts of the system that you have
+already implemented since the proposal of your project.
 
 #### Please pick one source code segment you have already implemented and explain it.
 
