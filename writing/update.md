@@ -45,11 +45,11 @@ TODO: Please create a filled checkbox for each update task that you completed
 TODO: Please do not fill in the checkbox if you did not complete the task
 
 - [] Explored various topics in the field of computer security
-- [] Provided an informative title for the proposed project
 - [] Gave a list of the overall scientific and engineering goals for the project
 - [] Wrote a project abstract with both an overview and the expected contributions
-- [] Outlined a design, implementation, and evaluation strategy for the project
-- [] Furnished a demonstration of project feasibility through code and/or data
+- [] Explained the ways in which the project's topic evolved since its proposal
+- [] Furnished a demonstration of project feasibility through explained code
+- [] Overviewed at least one empirical result from your preliminary experiments
 - [] Gave a list of tasks that you plan to complete after the status update
 - [] Explained how the project will help you to achieve learning outcomes
 - [] Suggested improvement for upcoming modules in the computer security course
