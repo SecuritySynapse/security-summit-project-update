@@ -135,18 +135,11 @@ interesting about the provided source code segment.
 
 #### What is some preliminary experimental evidence arising from your project?
 
-TODO: Write a one or two paragraph response to this question that overviews an
-interesting empirical study or experiment that you have conducted. Whenever
+TODO: Write a response with one or two paragraphs that overview an interesting
+empirical study that you have conducted and result arising from it. Whenever
 possible, your response to this question should furnish data (through a fenced
 code block or a table) that supports the claims that you are making about
 various aspects of the efficiency, effectiveness, or security of your approach.
-
-#### What tasks will you complete so as to finish your security summit project?
-
-TODO: Write a list of at least five tasks that you will complete after the
-approval of your project proposal. The steps that you furnish should be in the
-order that you will complete them and include technical details about what you
-will build and how you will evaluate your progress on each task.
 
 ### Learning Objectives
 
