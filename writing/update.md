@@ -50,21 +50,13 @@ TODO: Please do not fill in the checkbox if you did not complete the task
 - [] Outlined a design, implementation, and evaluation strategy for the project
 - [] Furnished a demonstration of project feasibility through code and/or data
 - [] Gave a list of tasks that you plan to complete after the proposal's approval
-- [] Explain how the project will help you to achieve learning outcomes
+- [] Explained how the project will help you to achieve learning outcomes
 - [] Suggested improvement for upcoming modules in the computer security course
+- [] Revised and extended the topic outlined in the project proposal
 
-### Potential Topics for the Security Summit Project
+### Project Update
 
-TODO: Provide a list of at least three topics that you considered for this
-project, bearing in mind that for the next question you will need to specify
-which project you are picking at your final one for this course. It is also
-important to note that if some aspect of your chosen project does not work out,
-then you can consider one of these alternative projects as a backup.
-
-TODO: Each topic in the list should be explained with one sentence that explains
-both what you are going to build and how you are going to evaluate it.
-
-#### What is the final topic that you have selected for your security summit project?
+#### What is the final topic that you selected for your security summit project?
 
 TODO: Write two or three sentences that offer an overview of your topic, explain
 what you are going to build, and describe how you are going to evaluate it. What
@@ -72,6 +64,13 @@ you furnish in this sub-section of the proposal should include a few more
 details than the topic list that you provided in the previous sub-section.
 
 - **Chosen Topic**: 
+
+#### What are the ways in which your project's topic evolved since its proposal?
+
+TODO: Write a one-paragraph description of how your project's topic evolved since
+you first proposed it. This response should explain how your project's topic
+changed from both a high-level perspective and in terms of the specific
+technical details that are central to the completion of your project.
 
 #### What are the scientific and/or engineering goals for your chosen project?
 
