@@ -43,7 +43,7 @@
         tag: heading
         count: 15
         exact: false
-    - description: Confirm that there is at least one fenced code blocks in the status update
+    - description: Confirm that there is at least one fenced code block in the status update
       check: CountMarkdownTags
       options:
         tag: code_block
