@@ -20,40 +20,16 @@
         fragment: "- ["
         count: 7
         exact: false
-    - description: Indicate your completion of the tasks in the update checklist
+    - description: Indicate your completion of the tasks in the status update's checklist
       check: MatchFileFragment
       options:
         fragment: "- [X]"
         count: 8
         exact: false
-    - description: Provide a statement of your chosen project with the correct label
-      check: MatchFileFragment
-      options:
-        fragment: "**Chosen Topic**"
-        count: 1
-        exact: false
-    - description: Furnish two or more learning objectives with correct formatting
+    - description: Furnish one learning objectives with correct formatting in the status update
       check: MatchFileFragment
       options:
         fragment: "**CS-403**"
-        count: 2
-        exact: false
-    - description: Provide suggestions for what we should keep doing in the course 
-      check: MatchFileFragment
-      options:
-        fragment: "I think that we should keep doing"
-        count: 1
-        exact: false
-    - description: Provide suggestions for what we should stop doing in the course 
-      check: MatchFileFragment
-      options:
-        fragment: "I think that we should stop doing"
-        count: 1
-        exact: false
-    - description: Provide suggestions for what we should start doing in the course 
-      check: MatchFileFragment
-      options:
-        fragment: "I think that we should start doing"
         count: 1
         exact: false
     - description: Write a minimum number of meaningful words in the update document
@@ -67,17 +43,11 @@
         tag: heading
         count: 15
         exact: false
-    - description: Confirm that the update has at least seven check lists
-      check: CountMarkdownTags
-      options:
-        tag: list 
-        count: 7
-        exact: false
-    - description: Confirm that there are at least two fenced code blocks
+    - description: Confirm that there is at least one fenced code blocks in the status update
       check: CountMarkdownTags
       options:
         tag: code_block
-        count: 2
+        count: 1
         exact: false
 
 # confirm a suitable number of commit messages
